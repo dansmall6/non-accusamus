@@ -1,5 +1,5 @@
 {
-  "name": "@gdrtyui/ducimus-saepe-non-accusamus",
+  "name": "@dansmall6/non-accusamus",
   "version": "1.0.3",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gdrtyui/ducimus-saepe-non-accusamus.git"
+    "url": "git+https://github.com/dansmall6/non-accusamus.git"
   },
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
     "@orihurah/tea-xyz-quest": "^1.0.3",
+    "@vickeesh/voluptatem-nobis": "^1.0.1",
+    "demo-cako": "^0.1.4",
+    "simple-claculator": "^1.0.2",
     "simple-loading-wave": "^0.0.2",
     "simple-react-btn": "^1.0.1"
   }
