@@ -1,0 +1,20 @@
+{
+  "name": "@gdrtyui/ducimus-saepe-non-accusamus",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdrtyui/ducimus-saepe-non-accusamus.git"
+  },
+  "dependencies": {
+    "@orihurah/tea-xyz-quest": "^1.0.3",
+    "simple-loading-wave": "^0.0.2",
+    "simple-react-btn": "^1.0.1"
+  }
+}
